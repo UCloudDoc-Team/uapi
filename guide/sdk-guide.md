@@ -28,10 +28,10 @@
   > 说明：如需更多帮助，可查看[GO SDK使用文档](<https://github.com/ucloud/ucloud-sdk-go>)
 
 
-   - 保存请求代码为 `main.go`
-   - 执行 `go mod init main`
-   - 执行 `go mod tidy`
-   - `go run ./main.go`
+   - 保存请求代码为 main.go
+   - 执行 go mod init main
+   - 执行 go mod tidy
+   - go run ./main.go
 
 
 
@@ -53,7 +53,7 @@
   
   
   
-  - 保存请求代码为 `main.py`
-   - `pip install ucloud-sdk-python3` (若使用python2 则执行`pip install ucloud-sdk-python2`)
-   - `python ./main.py`
+   - 保存请求代码为 main.py
+   - pip install ucloud-sdk-python3 (若使用python2 则执行 pip install ucloud-sdk-python2)
+   - python ./main.py
 

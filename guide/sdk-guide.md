@@ -40,6 +40,6 @@
    2）若为***Python SDK Demo***，请参考如下步骤：
    > 说明：如需更多帮助，可查看[Python2 SDK使用文档](<https://ucloud.github.io/ucloud-sdk-python2/>) [Python3 SDK使用文档](<https://ucloud.github.io/ucloud-sdk-python3/>)
    - 保存请求代码为 `main.py`
-   - `pip install ucloud-sdk-python3` (若使用python2 则安装ucloud-sdk-python2)
+   - `pip install ucloud-sdk-python3` (若使用python2 则执行`pip install ucloud-sdk-python2`)
    - `python ./main.py`
 

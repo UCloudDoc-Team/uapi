@@ -21,12 +21,13 @@
 6. 复制代码，并在本地运行，即可获得相应的查询结果。
 
 1）若为***GO SDK Demo***，请参考如下步骤：
+
 > 说明：如需更多帮助，可查看[GO SDK使用文档](<https://github.com/ucloud/ucloud-sdk-go>)
   
-   - 保存请求代码为 main.go
-   - 执行 go mod init main
-   - 执行 go mod tidy
-   - go run ./main.go
+* 保存请求代码为 main.go
+* 执行 go mod init main
+* 执行 go mod tidy
+* go run ./main.go
 
 > 说明：
 >
@@ -37,7 +38,7 @@
 
 > 说明：如需更多帮助，可查看[Python2 SDK使用文档](<https://ucloud.github.io/ucloud-sdk-python2/>) [Python3 SDK使用文档](<https://ucloud.github.io/ucloud-sdk-python3/>)
   
-  - 保存请求代码为 main.py
-  - pip install ucloud-sdk-python3 (若使用python2 则执行 pip install ucloud-sdk-python2)
-  - python ./main.py
+* 保存请求代码为 main.py
+* pip install ucloud-sdk-python3 (若使用python2 则执行 pip install ucloud-sdk-python2)
+* python ./main.py
 

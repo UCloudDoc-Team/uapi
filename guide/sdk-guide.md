@@ -29,10 +29,10 @@
 * 执行 go mod tidy
 * go run ./main.go
 
->  说明：
+> 说明：
 >
->  1. 如同时使用 go mod 和 Goland IDE，请在 Settings 中搜索 vgo，并启用 vgo 支持。 
->  2. 如同时使用 go mod 和 GOPATH，注意 go mod init/tidy 不能在 GOPATH 下执行，把项目从 GOPATH 下移出即可
+> 1. 如同时使用 go mod 和 Goland IDE，请在 Settings 中搜索 vgo，并启用 vgo 支持。 
+> 2. 如同时使用 go mod 和 GOPATH，注意 go mod init/tidy 不能在 GOPATH 下执行，把项目从 GOPATH 下移出即可
 
 2）若为***Python SDK Demo***，请参考如下步骤：  
 

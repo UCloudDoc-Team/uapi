@@ -28,7 +28,7 @@
 
 1）若为**GO SDK Demo**，请参考如下步骤：
 
-**说明：**如需更多帮助，可查看[GO SDK使用文档](<https://github.com/ucloud/ucloud-sdk-go>)
+**说明：** 如需更多帮助，可查看[GO SDK使用文档](<https://github.com/ucloud/ucloud-sdk-go>)
 
 * 保存请求代码为 main.go
 * 执行 go mod init main

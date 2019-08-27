@@ -23,7 +23,7 @@
 #### Step5： 
 替换【示例代码】中的PublicKey及PrivateKey
 
-#### Step5：
+#### Step6：
 复制代码，并在本地运行，即可获得相应的查询结果。
 
 1）若为**GO SDK Demo**，请参考如下步骤：

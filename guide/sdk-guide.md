@@ -7,21 +7,33 @@
 #### Step1：
 进入[UAPI产品](<https://console.ucloud.cn/uapi/ucloudapi>)，选择需要使用的API。
 
+
+
+
 #### Step2：
 填写相关字段。以 获取弹性IP信息-[DescribeEIP](<https://console.ucloud.cn/uapi/detail?id=DescribeEIP>)为例，查询账户中北京二地域某一项目的EIP资源列表。
 
-  ![](https://static.ucloud.cn/fbb00d85944945a0b247cdb647bcd2ca.png)
+![](https://static.ucloud.cn/fbb00d85944945a0b247cdb647bcd2ca.png)
 
 #### Step3： 
 查看【示例代码】，选择 SDK 语言 ，即可获得该语言的SDK Demo代码
 
 ![](https://static.ucloud.cn/f5a033ee1a1a4be693b7c37d5c4cff6b.png)
 
+
+
+
 #### Step4： 
 获取[账户公私钥](https://console.ucloud.cn/uapi/apikey).
 
+
+
+
 #### Step5： 
 替换【示例代码】中的PublicKey及PrivateKey
+
+
+
 
 #### Step6：
 复制代码，并在本地运行，即可获得相应的查询结果。

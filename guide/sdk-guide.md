@@ -15,7 +15,7 @@
 #### Step3： 
 查看【示例代码】，选择 SDK 语言 ，即可获得该语言的SDK Demo代码
 
-  ![](https://static.ucloud.cn/f5a033ee1a1a4be693b7c37d5c4cff6b.png)
+![](https://static.ucloud.cn/f5a033ee1a1a4be693b7c37d5c4cff6b.png)
 
 #### Step4： 
 获取[账户公私钥](https://console.ucloud.cn/uapi/apikey).

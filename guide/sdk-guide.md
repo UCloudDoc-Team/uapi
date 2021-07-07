@@ -11,7 +11,7 @@
 
 
 #### Step2：
-填写相关字段。以 获取弹性IP信息-[DescribeEIP](<https://console.ucloud.cn/uapi/detail?id=DescribeEIP>)为例，查询账户中北京二地域某一项目的EIP资源列表。
+填写相关字段。以 获取弹性IP信息-[DescribeEIP](<https://console.ucloud.cn/uapi/detail?id=DescribeEIP>)为例，查询账户中华北（北京）地域某一项目的EIP资源列表。
 
 ![](https://static.ucloud.cn/fbb00d85944945a0b247cdb647bcd2ca.png)
 
